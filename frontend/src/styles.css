@@ -1,0 +1,28 @@
+
+:root {font-family: Inter, system-ui, Arial; }
+body {background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); margin: 0; background: #f6f7fb; }
+.container {
+  max-width: 720px; margin: 40px auto; padding: 0 16px; }
+h1 {text-align: center; margin-bottom: 24px; }
+.card {
+  background: #fff; border-radius: 16px; padding: 24px;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+.question { margin: 12px 0 16px; }
+.options { display: grid; gap: 12px; margin-bottom: 16px; }
+.option {
+  border: 1px solid #ddd; border-radius: 10px; padding: 12px;
+  cursor: pointer; display: flex; align-items: center; gap: 8px;
+}
+.option.selected { border-color: #3b82f6; background: #eff6ff; }
+.btn {
+  background: #3b82f6; color: white; border: none; padding: 10px 16px;
+  border-radius: 10px; cursor: pointer; font-weight: 600;
+}
+.btn:disabled { opacity: 0.6; cursor: not-allowed; }
+.btn.outline { background: transparent; color: #3b82f6; border: 1px solid #3b82f6; margin-left: 8px; }
+.progress { color: #64748b; font-size: 14px; }
+.center { text-align: center; }
+.score {
+  font-size: 48px; font-weight: 800; margin: 12px 0 16px; color: #0f172a;
+}

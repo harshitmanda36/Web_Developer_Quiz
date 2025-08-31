@@ -1,0 +1,12 @@
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/service/QuizService.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/dto/QuestionDTO.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/model/Question.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/dto/SubmitAnswerDTO.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/dto/ScoreResponseDTO.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/repo/QuestionRepository.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/dto/OptionDTO.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/controller/QuizController.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/repo/OptionChoiceRepository.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/dto/SubmitRequestDTO.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/QuizApplication.java
+/Users/harshit/Music/quiz-game-fullstack-fixed/backend/src/main/java/com/example/quiz/model/OptionChoice.java
